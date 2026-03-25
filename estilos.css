@@ -1,0 +1,42 @@
+body{
+    background-color:#d9d9d9; 
+    margin:40px;
+    font-family:Arial;
+}
+
+h1{
+    color:#03071e; 
+    background-color:#a68a64; 
+    padding:15px;
+    font-size:40px;
+}
+
+h2{
+    color:#d00000;
+    margin-top:30px;
+    font-size:26px;
+}
+
+p{
+    font-size:18px;
+    color:#03071e; 
+}
+
+ul{
+    background-color:#778da9; 
+    padding:15px;
+}
+
+li{
+    margin:8px;
+}
+
+img{
+    margin-top:10px;
+    width:300px;
+}
+
+a{
+    color:#6b4f2a; 
+    font-size:18px;
+}
